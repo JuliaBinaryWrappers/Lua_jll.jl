@@ -1,6 +1,6 @@
 name = "Lua_jll"
 uuid = "a4086b1d-a96a-5d6b-8e4f-2030e6f25ba6"
-version = "5.4.9+0"
+version = "5.5.0+0"
 
 [deps]
 Readline_jll = "05236dd9-4125-5232-aa7c-9ec0c9b2c25a"

@@ -3,14 +3,14 @@ export liblua, lua, luac
 
 using Readline_jll
 JLLWrappers.@generate_wrapper_header("Lua")
-JLLWrappers.@declare_library_product(liblua, "lua54.dll")
+JLLWrappers.@declare_library_product(liblua, "lua55.dll")
 JLLWrappers.@declare_executable_product(lua)
 JLLWrappers.@declare_executable_product(luac)
 function __init__()
     JLLWrappers.@generate_init_header(Readline_jll)
     JLLWrappers.@init_library_product(
         liblua,
-        "bin\\lua54.dll",
+        "bin\\lua55.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
