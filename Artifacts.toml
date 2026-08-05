@@ -1,160 +1,160 @@
 [[Lua]]
 arch = "aarch64"
-git-tree-sha1 = "14f1abc9fc60b2636a828df2a50e9cba7f38536b"
+git-tree-sha1 = "6d78dbfce91f58a3508bc5b5e2f3413cd7d307f3"
 os = "macos"
 
     [[Lua.download]]
-    sha256 = "a09b53396940be9ac4c2562cff91b4f8b7bfc32324d43de491a1aa1ec9a29b18"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "97b1bed1740459deb2d1cda5bef31bc17dc8677e998974aad92175d5ffef981d"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.aarch64-apple-darwin.tar.gz"
 [[Lua]]
 arch = "aarch64"
-git-tree-sha1 = "9118f636f54d8200dad3349d27f7c8d5b33111a6"
+git-tree-sha1 = "680edc4676814b1b5246b76d74064cb82a724662"
 libc = "glibc"
 os = "linux"
 
     [[Lua.download]]
-    sha256 = "5fdfd5361f32d07195d0511a611ee552179da68682d679252b7381141e20ac79"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "84cc07d2e2dfb0d844ade9927ce34a79d1dc08033d679da0e5804dcba710d327"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.aarch64-linux-gnu.tar.gz"
 [[Lua]]
 arch = "aarch64"
-git-tree-sha1 = "54afd3ee6976e59a7262dbb024614881d051a88a"
+git-tree-sha1 = "546a0fa4bb0f36bd0b773c5b41a780067a7c6202"
 libc = "musl"
 os = "linux"
 
     [[Lua.download]]
-    sha256 = "a0ab4b289ea9bb3a5c7305e4829027f6da113e3377a1843719cbfdd9519fc2eb"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.aarch64-linux-musl.tar.gz"
+    sha256 = "9195cc4f846bf09987e454227c1eba92206440495149db1cfafc191c474b5e1a"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.aarch64-linux-musl.tar.gz"
 [[Lua]]
 arch = "aarch64"
-git-tree-sha1 = "448a315eb106e208dbdeef6ad6d73e423dfefab6"
+git-tree-sha1 = "703b2329a7bec6165480f0c1c35a5fff4237a92d"
 os = "freebsd"
 
     [[Lua.download]]
-    sha256 = "2c35af4636347df9ebc4628ddcd60ae13418f0e96c96bec3471aa55ac93e5a20"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "0bd42fef4c59c5aa004f4f9f3534c7a7e4b363dfc7711860d22326a2b0bfb61f"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.aarch64-unknown-freebsd.tar.gz"
 [[Lua]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9e181e366a84e1dd8b8abfddafa22903d6388678"
+git-tree-sha1 = "fa83c85de4c592d48a0d33db92916dd6dc7ed520"
 libc = "glibc"
 os = "linux"
 
     [[Lua.download]]
-    sha256 = "f55416276856b96682158e057b4bebf609933caf836002d1ae0d01a7a253d10f"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "2dcd2c703547f3fbbce4ec99b5651251c85359651e276babd31ffe76147b644a"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.armv6l-linux-gnueabihf.tar.gz"
 [[Lua]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1ab77ff8768e5f6b50497868043c003f6bf35230"
+git-tree-sha1 = "44ad562ba96ecef16b7e62cc754f85d744e7d9d2"
 libc = "musl"
 os = "linux"
 
     [[Lua.download]]
-    sha256 = "a470e797beb2d73b1396a847dd3213ca17c99968765724216e17d50713452437"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "7d0f605c1e5885e9f24f5a6bed249821ce2eeaf55b2217cd32a005635ebe757d"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.armv6l-linux-musleabihf.tar.gz"
 [[Lua]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "35ec60a873d3d2d11472afddf01080bb53f4d646"
+git-tree-sha1 = "e52f4bbd473ced410dfaac8b099f44862ca87840"
 libc = "glibc"
 os = "linux"
 
     [[Lua.download]]
-    sha256 = "86029e6310a8c11eb14cd687187671c37583d38c9024b216a2edddbcfe866b21"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "90d8e6fbd539c4516c2920cc8e8d0fb24898f550c41009f837f4292d347862c4"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.armv7l-linux-gnueabihf.tar.gz"
 [[Lua]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f0012a61c21be5e43925519b506334ef121de5f7"
+git-tree-sha1 = "7be421aaf5b9eb716d702a0f2dac7bc707f8bd12"
 libc = "musl"
 os = "linux"
 
     [[Lua.download]]
-    sha256 = "62749be2d8629a8e0d2ba6c4b3da992ee36b37b52261924ffeb2560b774e56d7"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "7679179b4ba5a64a337ea8085bda40f73d01e8e45c3510d7d9b80d673664a6ad"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.armv7l-linux-musleabihf.tar.gz"
 [[Lua]]
 arch = "i686"
-git-tree-sha1 = "bd5c78eec5d14f3f56d829fbebfbe8010005dfc9"
+git-tree-sha1 = "b047000436f124577f2e26dd1635bd9b18950c30"
 libc = "glibc"
 os = "linux"
 
     [[Lua.download]]
-    sha256 = "0ce79c74958d190c3e07e0be3f4e8f0682e86dcbb1ef2262b0603861ec1f5963"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.i686-linux-gnu.tar.gz"
+    sha256 = "cc4b147ba6776f77ba8f032ef107a084ed780c7eb345c2f1ce714bf4bd96f400"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.i686-linux-gnu.tar.gz"
 [[Lua]]
 arch = "i686"
-git-tree-sha1 = "ee14d38304b88d5b63cf5773a49cb1f87494dcaf"
+git-tree-sha1 = "7077cf8f037ad828fd6019b6b5f05ade32726f9a"
 libc = "musl"
 os = "linux"
 
     [[Lua.download]]
-    sha256 = "1b1857d59d8701ad18b6022c20dd5d25cb78382b318d1e8becb059ce9b7d6666"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.i686-linux-musl.tar.gz"
+    sha256 = "20a51715e667b4969b8e214964724e28642b88b44a7c58e5eccdf045f739f286"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.i686-linux-musl.tar.gz"
 [[Lua]]
 arch = "i686"
-git-tree-sha1 = "ee7a4bacf4dc164836ab8b8647847869c9885d14"
+git-tree-sha1 = "8c22dd643c93fd1c80dbe3cb1fc53bd05908a591"
 os = "windows"
 
     [[Lua.download]]
-    sha256 = "8f93d3c474369a259423769dd01e8c72b613cab705a6468cc0292c794b2f2a26"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.i686-w64-mingw32.tar.gz"
+    sha256 = "299cca932df2fd7c6d364c0b52827048bc7f5b94949cd3184dc36731d06083f6"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.i686-w64-mingw32.tar.gz"
 [[Lua]]
 arch = "powerpc64le"
-git-tree-sha1 = "1d13ac9c08c21a5c61f6d58cccfcff39057d4c4f"
+git-tree-sha1 = "bb80caaaa5fa4224a44fd15f42a5bf20f1bdf6ce"
 libc = "glibc"
 os = "linux"
 
     [[Lua.download]]
-    sha256 = "7dbe76d249dc79d83a7f80901304c568ca7ed49ca4576f88405ac242811d6f0a"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "ba8c73ba5f85849a7ef1c97db56dc5d37a952b2e0c108def67efdf584c9b480a"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.powerpc64le-linux-gnu.tar.gz"
 [[Lua]]
 arch = "riscv64"
-git-tree-sha1 = "fce253258c168e86e64ed29eb9e3723f0107cae5"
+git-tree-sha1 = "9257f66f5771bffa297f76e696261264e1322cd8"
 libc = "glibc"
 os = "linux"
 
     [[Lua.download]]
-    sha256 = "2fa56b6bb8125fbb8c0f2ec66e2b477e97fa72e164659fa7d8bba1e3d14a1412"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "f49b8f5812b8f9aaffbfa7601adc4c68b63d0ec865816273d6c4ba1cbaa1f2c2"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.riscv64-linux-gnu.tar.gz"
 [[Lua]]
 arch = "x86_64"
-git-tree-sha1 = "466ee68f0d3f3fa31aa9822043c4c799d865241a"
+git-tree-sha1 = "f7b2d3c4b649dbd23d579b9399a46ad787435862"
 os = "macos"
 
     [[Lua.download]]
-    sha256 = "6dc60416fae1889d24b16a1126ad69ccff2dd3007de99b90b1eb2cf9ba3d4b73"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "87e7c8e355067dca8e9e892b41f3b6d3d78bc245e18f69d9501e153ea80323ff"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.x86_64-apple-darwin.tar.gz"
 [[Lua]]
 arch = "x86_64"
-git-tree-sha1 = "44b0363d8d35f07bfd0e17a88a46e10e149c1d96"
+git-tree-sha1 = "4f498831685e1b81549562d9f59b53508c3c36dd"
 libc = "glibc"
 os = "linux"
 
     [[Lua.download]]
-    sha256 = "9506ce1e708a5de92b2f61d2f395a7d7cc16fc7a9ee878ec269fe7ef8e57bc1d"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "21fcd623db3b6ee1485ef994b8849428850cb725847e51bcb0fa8259735e0fce"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.x86_64-linux-gnu.tar.gz"
 [[Lua]]
 arch = "x86_64"
-git-tree-sha1 = "704563991467dbdad0359b016df41fb642a83bff"
+git-tree-sha1 = "a349f638f5dd88ba0b53c3b9749e4c5d714b30a7"
 libc = "musl"
 os = "linux"
 
     [[Lua.download]]
-    sha256 = "092db7c3f887712a5df8becb1e53e70cf97f68280f261643c54ae42acac543ed"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.x86_64-linux-musl.tar.gz"
+    sha256 = "07145cbfe440ffc5dea876606b1a34124f0787a2ee69170fecf10effd11d4e1b"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.x86_64-linux-musl.tar.gz"
 [[Lua]]
 arch = "x86_64"
-git-tree-sha1 = "4730abbc805740ab413e76af1dc3d91eee319160"
+git-tree-sha1 = "48a24864e3895dd3a8f35b61a2bd471382c738eb"
 os = "freebsd"
 
     [[Lua.download]]
-    sha256 = "6f1a1f4baba9202539b7835c8f3b54bdb638bb3806d4fb608342ba45f6895f92"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "20199bf7a1f94199b3eeb29ddeb5877cbba7427f2b84e4851192310d703bddd3"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.x86_64-unknown-freebsd.tar.gz"
 [[Lua]]
 arch = "x86_64"
-git-tree-sha1 = "1eb3bf050cbdde748e0abb83666fab89916948e3"
+git-tree-sha1 = "666a5d1aff976ae7997190a5b2dd7ae8ac4e78a6"
 os = "windows"
 
     [[Lua.download]]
-    sha256 = "2e1363c3104cbb217d149160c7da5cad3aa07dfca5c0092e895ddf02ef4a6421"
-    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.0+0/Lua.v5.5.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "8404215f3aeae0f3c2a7784e2a496d4654f283b940273969c375fa66adf0de67"
+    url = "https://github.com/JuliaBinaryWrappers/Lua_jll.jl/releases/download/Lua-v5.5.1+0/Lua.v5.5.1.x86_64-w64-mingw32.tar.gz"
